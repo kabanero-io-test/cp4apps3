@@ -1,0 +1,2 @@
+project-name: cp4apps3
+stack: docker.io/kabanero/nodejs:0.3
